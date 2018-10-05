@@ -5,13 +5,13 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
 
-    private float jumpForce = 400f;
+    public float jumpForce = 400;
 
-    private float walkMovementSpeed = 10f;
-    private float attackMovementSpeed = 1f;
+    public float walkMovementSpeed;
+    public float attackMovementSpeed;
 
     // Wont walk of screen
-    private float xMin = -50f, xMax = 50f, zMin = -8f, zMax = 8f;
+    public float xMin, xMax, zMin, zMax;
     private float movementSpeed;
 
     //the characters body
@@ -26,8 +26,8 @@ public class Player : MonoBehaviour
     //Animator State Info
     AnimatorStateInfo currentStateInfo;
 
-    public GameObject attack1Box;
-    public Sprite attack1SpriteHitFrame;
+    public GameObject attack1Box, attack2Box;
+    public Sprite attack1SpriteHitFrame, attack2SpriteHitFrame;
 
     SpriteRenderer currentSprite;
 
@@ -72,29 +72,29 @@ public class Player : MonoBehaviour
 
         currentState = currentStateInfo.fullPathHash;
 
-        if (currentState == idleState)
+        if(currentState == idleState)
         {
             Debug.Log("Idle State");
         }
-        if (currentState == runState)
+        if(currentState == runState)
         {
             Debug.Log("Run State");
         }
-        if (currentState == hurtState)
+        if(currentState == hurtState)
         {
             Debug.Log("Hurt State");
         }
-        if (currentState == fallState)
+        if(currentState == fallState)
         {
             Debug.Log("Fall State");
         }
-        if (currentState == blockState)
+        if(currentState == blockState)
         {
             Debug.Log("Block State");
         }
 
         //-Control Speed Based on Commands --------------------------------------------------
-        if (currentState == idleState || currentState == runState)
+        if(currentState == idleState || currentState == runState)
         {
             movementSpeed = walkMovementSpeed;
         }
@@ -114,20 +114,20 @@ public class Player : MonoBehaviour
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
 
-        Vector3 movement = new Vector3(moveHorizontal * movementSpeed, rigidBody.velocity.y, moveVertical * movementSpeed);
+        Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
 
-        rigidBody.velocity = movement;
+        rigidBody.velocity = movement * movementSpeed;
 
         rigidBody.position = new Vector3(Mathf.Clamp(rigidBody.position.x, xMin, xMax), transform.position.y, Mathf.Clamp(rigidBody.position.z, zMin, zMax));
 
 
 
-        if (moveHorizontal > 0 && !facingRight)
+        if(moveHorizontal > 0 && !facingRight)
         {
             Flip();
         }
 
-        else if (moveHorizontal < 0 && facingRight)
+        else if(moveHorizontal < 0 && facingRight)
         {
             Flip();
         }
@@ -149,7 +149,7 @@ public class Player : MonoBehaviour
         }
 
 
-        if (attack1SpriteHitFrame == currentSprite.sprite)
+        if(attack1SpriteHitFrame == currentSprite.sprite)
         {
             attack1Box.gameObject.SetActive(true);
         }
@@ -158,10 +158,18 @@ public class Player : MonoBehaviour
             attack1Box.gameObject.SetActive(false);
         }
 
+        if (attack2SpriteHitFrame == currentSprite.sprite)
+        {
+            attack2Box.gameObject.SetActive(true);
+        }
+        else
+        {
+            attack2Box.gameObject.SetActive(false);
+        }
 
-        // - Block ------------------------------------------------------
+        // - Jump ------------------------------------------------------
 
-        if (Input.GetKeyDown(KeyCode.RightShift))
+        if (Input.GetKey(KeyCode.RightShift))
         {
             anim.SetBool("Jump", true);
             rigidBody.AddForce(Vector3.up * jumpForce);
@@ -170,7 +178,22 @@ public class Player : MonoBehaviour
         {
             anim.SetBool("Jump", false);
         }
+
+
+        // Projectile
+        //Have an if Statement that checks for keypress
+        //Anim setbool
+        //intitate projectile prfab
+
+
+
+
+
+
     }
+
+
+
 
     void Flip()
     {
@@ -182,7 +205,7 @@ public class Player : MonoBehaviour
     }
 
 
-
+   
 
 
 }

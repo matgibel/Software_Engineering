@@ -1,0 +1,2940 @@
+fileFormatVersion: 2
+guid: bf8561594f2d13145b14fcae926ad483
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GreenRobo_0
+    21300002: GreenRobo_1
+    21300004: GreenRobo_2
+    21300006: GreenRobo_3
+    21300008: GreenRobo_4
+    21300010: GreenRobo_5
+    21300012: GreenRobo_6
+    21300014: GreenRobo_7
+    21300016: GreenRobo_8
+    21300018: GreenRobo_9
+    21300020: GreenRobo_10
+    21300022: GreenRobo_11
+    21300024: GreenRobo_12
+    21300026: GreenRobo_13
+    21300028: GreenRobo_14
+    21300030: GreenRobo_15
+    21300032: GreenRobo_16
+    21300034: GreenRobo_17
+    21300036: GreenRobo_18
+    21300038: GreenRobo_19
+    21300040: GreenRobo_20
+    21300042: GreenRobo_21
+    21300044: GreenRobo_22
+    21300046: GreenRobo_23
+    21300048: GreenRobo_24
+    21300050: GreenRobo_25
+    21300052: GreenRobo_26
+    21300054: GreenRobo_27
+    21300056: GreenRobo_28
+    21300058: GreenRobo_29
+    21300060: GreenRobo_30
+    21300062: GreenRobo_31
+    21300064: GreenRobo_32
+    21300066: GreenRobo_33
+    21300068: GreenRobo_34
+    21300070: GreenRobo_35
+    21300072: GreenRobo_36
+    21300074: GreenRobo_37
+    21300076: GreenRobo_38
+    21300078: GreenRobo_39
+    21300080: GreenRobo_40
+    21300082: GreenRobo_41
+    21300084: GreenRobo_42
+    21300086: GreenRobo_43
+    21300088: GreenRobo_44
+    21300090: GreenRobo_45
+    21300092: GreenRobo_46
+    21300094: GreenRobo_47
+    21300096: GreenRobo_48
+    21300098: GreenRobo_49
+    21300100: GreenRobo_50
+    21300102: GreenRobo_51
+    21300104: GreenRobo_52
+    21300106: GreenRobo_53
+    21300108: GreenRobo_54
+    21300110: GreenRobo_55
+    21300112: GreenRobo_56
+    21300114: GreenRobo_57
+    21300116: GreenRobo_58
+    21300118: GreenRobo_59
+    21300120: GreenRobo_60
+    21300122: GreenRobo_61
+    21300124: GreenRobo_62
+    21300126: GreenRobo_63
+    21300128: GreenRobo_64
+    21300130: GreenRobo_65
+    21300132: GreenRobo_66
+    21300134: GreenRobo_67
+    21300136: GreenRobo_68
+    21300138: GreenRobo_69
+    21300140: GreenRobo_70
+    21300142: GreenRobo_71
+    21300144: GreenRobo_72
+    21300146: GreenRobo_73
+    21300148: GreenRobo_74
+    21300150: GreenRobo_75
+    21300152: GreenRobo_76
+    21300154: GreenRobo_77
+    21300156: GreenRobo_78
+    21300158: GreenRobo_79
+    21300160: GreenRobo_80
+    21300162: GreenRobo_81
+    21300164: GreenRobo_82
+    21300166: GreenRobo_83
+    21300168: GreenRobo_84
+    21300170: GreenRobo_85
+    21300172: GreenRobo_86
+    21300174: GreenRobo_87
+    21300176: GreenRobo_88
+    21300178: GreenRobo_89
+    21300180: GreenRobo_90
+    21300182: GreenRobo_91
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenRobo_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 500
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2f8c7629b7f3d4c84cfee3f2e2ee1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 500
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5909fb612a57147b4f56137000ae44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 500
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d836505476814593509fafae274da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 500
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664f76c9f0c76b4e969ed4e4a535614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 500
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65c10d2e02d4704f85fbd76c6f5c59c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 500
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea7795a95e25494994b6cde5ef31e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 500
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7602990bdd484fbe94ab269537fd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_7
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 500
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863d57be9c7bd59448f5c4e8e2142a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_8
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 500
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53350d8515780cf4c9bcb47c118616b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 500
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad934553dfd21946a0e9178b2e7d674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 500
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d965474df6d46428572c0ebc5216bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 421
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52713cd64873a804c877f5a19f40899e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 421
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e18a09540f16f44b3bc8f68f99ef00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 421
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813cad39b0eed57488e425906ffd9575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 421
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a1247c5a7f9a41a9f6b7c423fb81e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 421
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b7f2d52b2a9174dacf600d7f792583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 421
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059ad9dfe26dec4b996ee9da95b4fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_17
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 421
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db211a62378129344a6c6ba3eeabc420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_18
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 421
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c7edc43b69d2742addfd921b920ea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 421
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322423a925c151544ac4300cc698f27f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_20
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 421
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7822ccfdaced1848b52597ba00018eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_21
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 421
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4add9b58730d643b7623f749973372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 354
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afedd737a97ed894db572c6cbd4e7d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 354
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c145141446244f8bfb5ac6a0ccf58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 354
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b135c7bf6e8ed94496d9c767b98f2c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 354
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ccade925f0da645a0e2fe8ea414a7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66863999e28fb94cb00b44a072bbcee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 354
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c3dd389eabc1a47a2d4de2abe1d5e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f00e64611e3d4294cc2d0a1c69916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_29
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 354
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa299f82ca1aed4c94f11753df51edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_30
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 354
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ba00a19f733947b392e05c060b772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 367
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc0703bfa2ca5d4283c3875c06d3456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 354
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b60e1d85587994b9a6b53b76e40a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_33
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 375
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f535b84ec1b9c3419e302abe931bed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_34
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 354
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8579e724b59901441b6485532f32b321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 286
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2acffa77f3d0d4ba1819e0634680b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 290
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d8347f8cf7374d9876ccfd78c8030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_37
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 290
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30af05e2e7e559b4e9c770380a5b48fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 290
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca593e3bb05e0641b9771122ce75d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_39
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 324
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19959b38b609047834ccd44b96aee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_40
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 290
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782cc515494ef8d49acb3885d6323d5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_41
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 324
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a386bb1c4fc1ec548b057458244596fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_42
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 290
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992f9a9cbfea2e44e923556a385f383e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_43
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 290
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5bf67de7ba94a4f8a9ec0e5ced610d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_44
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 290
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84490eba531f6e44483eb3c09d2c3820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_45
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 290
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce3698bbb018e49a2260c6709f5ac7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 290
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f17542653d55746b633a876ee30876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 290
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dae5c4a1624e249b7669294438ece7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_48
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 290
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc381acb4beb8a94fac49b05c68ebda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_49
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 290
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c517557c323c0f742a8231f9fc6aab38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 232
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670c3b797abcfa84bac832fe47f2ff74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_51
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 232
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed13f7a7360e84ca78c3e2bb45839d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 232
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218eabf9e53151e4d9a157f20da3a534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_53
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 232
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3635f5377cd84204f8fd76096a975fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 232
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c91d7d55988644283003127ba47de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 232
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15efa0080ffa3ed44ad932c01922eb6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bbf8e19fa50d74f9af806bfabba2ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 164
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b993d1a3390f4f6478f2237424eadf91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 161
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e17432339d9cf43b2b884f1b13a52d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 161
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e5a96104af544a816ebeba74d5c00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 165
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee34510607be2f3428ad31237dce8a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_61
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 165
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bde7042bb8df343802f8a8ca6b7441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_62
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 165
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2239756527ac47900fc2750e6d3b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 165
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebbfffedb8b9cb4fb030f51e04f6254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_64
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 165
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf587297a278f74d8c75e310b2fd9c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_65
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 165
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1341cc7062ead14e915b47045c83da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_66
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 164
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4329eaa2071646aa65fb602b7d83c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_67
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 164
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc6bbb171e118e4788c40709681ef57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_68
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 164
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a7d124015b518408b3efdb6b964106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_69
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 96
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e33d3d508cf5c14c8b87d1a3075b4a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5890aa42496905f4983574cb8868f96b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_71
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 96
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c92896a5521a9546b0704815ca6de5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 97
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3053824c8b957634e927e472ecb2218e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_73
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 96
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae299940affcb064ca94882de0c75129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_74
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd83827b168454a4394b2f63ae591e44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_75
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 96
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538a0eec7b2bf1f4dacd734074b33879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d2235ac9fb29d4bbfe61a02d765789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4001a1bba21ce4580d1f9036c09ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_78
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 96
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7ea3ac7d27a7d4691ebd9a2b668cd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_79
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 96
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d17d6c97c7f54cb84cc60a6d93a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_80
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 29
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6f8bd9846afad4799cf1032158b831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 29
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae4afe7b7bd2954bb6aea79a664df25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_82
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 29
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c08a1cdede0543996f0294f62578a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 29
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb92f96618bb0349b20c3b3a3e51f41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_84
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 29
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a75f44f517f5034db1c9d3a9780ef73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_85
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 29
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b23225427716b408fc0f98c284ecfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 29
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d07aa367bc7a4b98f6fe8bc83f4ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_87
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 29
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452dd515ad8bf94e8619eea732b8593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_88
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 29
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a2de1639b27c4f862ce6575c99056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_89
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 29
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9251b79ba7ee1174da1b220423175c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_90
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 29
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff19c7e49e422d4e84c65ad6387bf7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenRobo_91
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 28
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d507c0638ea049640bb8c2ffb66d9cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 296, y: -233}
+      - {x: 336, y: -256}
+      - {x: 343, y: -256}
+      - {x: 356, y: -249}
+      - {x: 356, y: -210}
+      - {x: 355, y: -203}
+      - {x: 311, y: -203}
+      - {x: 296, y: -223}
+    - - {x: -401, y: -205}
+      - {x: -426, y: -205}
+      - {x: -431, y: -212}
+      - {x: -431, y: -236}
+      - {x: -417, y: -255}
+      - {x: -411, y: -255}
+      - {x: -404, y: -249}
+      - {x: -395, y: -233}
+      - {x: -395, y: -224}
+      - {x: -398, y: -206}
+    - - {x: -358, y: -206}
+      - {x: -363, y: -207}
+      - {x: -366, y: -208}
+      - {x: -388, y: -217}
+      - {x: -388, y: -226}
+      - {x: -356, y: -255}
+      - {x: -339, y: -255}
+      - {x: -329, y: -235}
+      - {x: -329, y: -213}
+      - {x: -340, y: -202}
+      - {x: -356, y: -202}
+      - {x: -358, y: -204}
+    - - {x: -296, y: -204}
+      - {x: -319, y: -223}
+      - {x: -318, y: -227}
+      - {x: -289, y: -251}
+      - {x: -281, y: -255}
+      - {x: -267, y: -255}
+      - {x: -263, y: -239}
+      - {x: -263, y: -214}
+      - {x: -268, y: -204}
+    - - {x: -240, y: -202}
+      - {x: -254, y: -210}
+      - {x: -254, y: -226}
+      - {x: -219, y: -255}
+      - {x: -212, y: -255}
+      - {x: -206, y: -245}
+      - {x: -201, y: -234}
+      - {x: -201, y: -215}
+      - {x: -204, y: -202}
+    - - {x: -165, y: -203}
+      - {x: -167, y: -205}
+      - {x: -167, y: -208}
+      - {x: -173, y: -207}
+      - {x: -192, y: -221}
+      - {x: -192, y: -229}
+      - {x: -160, y: -255}
+      - {x: -145, y: -255}
+      - {x: -142, y: -251}
+      - {x: -142, y: -203}
+    - - {x: -88, y: -201}
+      - {x: -114, y: -201}
+      - {x: -132, y: -232}
+      - {x: -132, y: -239}
+      - {x: -99, y: -255}
+      - {x: -92, y: -255}
+      - {x: -83, y: -249}
+      - {x: -80, y: -240}
+      - {x: -80, y: -216}
+    - - {x: -9, y: -192}
+      - {x: -40, y: -192}
+      - {x: -40, y: -195}
+      - {x: -39, y: -198}
+      - {x: -25, y: -200}
+      - {x: -57, y: -210}
+      - {x: -70, y: -237}
+      - {x: -70, y: -255}
+      - {x: 1, y: -255}
+      - {x: 11, y: -236}
+      - {x: 11, y: -201}
+      - {x: -2, y: -193}
+    - - {x: 98, y: -219}
+      - {x: 76, y: -206}
+      - {x: 72, y: -205}
+      - {x: 51, y: -205}
+      - {x: 26, y: -230}
+      - {x: 23, y: -240}
+      - {x: 23, y: -255}
+      - {x: 88, y: -255}
+      - {x: 103, y: -252}
+      - {x: 103, y: -220}
+      - {x: 101, y: -216}
+    - - {x: 162, y: -255}
+      - {x: 164, y: -249}
+      - {x: 164, y: -215}
+      - {x: 161, y: -207}
+      - {x: 141, y: -207}
+      - {x: 118, y: -230}
+      - {x: 120, y: -235}
+      - {x: 123, y: -234}
+      - {x: 129, y: -231}
+      - {x: 127, y: -232}
+      - {x: 119, y: -240}
+      - {x: 112, y: -252}
+      - {x: 112, y: -254}
+      - {x: 114, y: -255}
+      - {x: 134, y: -253}
+      - {x: 141, y: -245}
+      - {x: 151, y: -255}
+    - - {x: 198, y: -205}
+      - {x: 186, y: -217}
+      - {x: 183, y: -228}
+      - {x: 186, y: -230}
+      - {x: 175, y: -249}
+      - {x: 175, y: -253}
+      - {x: 178, y: -253}
+      - {x: 199, y: -255}
+      - {x: 222, y: -255}
+      - {x: 223, y: -250}
+      - {x: 223, y: -212}
+      - {x: 220, y: -205}
+    - - {x: 234, y: -252}
+      - {x: 234, y: -253}
+      - {x: 236, y: -255}
+      - {x: 237, y: -255}
+      - {x: 242, y: -250}
+      - {x: 242, y: -248}
+      - {x: 239, y: -247}
+    - - {x: 254, y: -205}
+      - {x: 238, y: -225}
+      - {x: 238, y: -239}
+      - {x: 271, y: -255}
+      - {x: 286, y: -255}
+      - {x: 287, y: -253}
+      - {x: 287, y: -205}
+    - - {x: 252, y: -251}
+      - {x: 254, y: -253}
+      - {x: 257, y: -252}
+      - {x: 258, y: -248}
+      - {x: 256, y: -246}
+      - {x: 253, y: -247}
+    - - {x: 56, y: -238}
+      - {x: 52, y: -234}
+      - {x: 51, y: -235}
+      - {x: 53, y: -233}
+      - {x: 53, y: -232}
+      - {x: 52, y: -233}
+      - {x: 52, y: -235}
+      - {x: 55, y: -238}
+      - {x: 56, y: -238}
+      - {x: 57, y: -239}
+      - {x: 55, y: -241}
+      - {x: 56, y: -240}
+    - - {x: -426, y: -141}
+      - {x: -432, y: -149}
+      - {x: -432, y: -178}
+      - {x: -429, y: -188}
+      - {x: -409, y: -188}
+      - {x: -398, y: -173}
+      - {x: -398, y: -146}
+      - {x: -402, y: -141}
+    - - {x: -362, y: -147}
+      - {x: -381, y: -147}
+      - {x: -390, y: -161}
+      - {x: -390, y: -175}
+      - {x: -383, y: -188}
+      - {x: -358, y: -188}
+      - {x: -353, y: -182}
+      - {x: -353, y: -163}
+      - {x: -358, y: -149}
+    - - {x: -334, y: -144}
+      - {x: -341, y: -151}
+      - {x: -341, y: -174}
+      - {x: -339, y: -186}
+      - {x: -334, y: -188}
+      - {x: -307, y: -188}
+      - {x: -302, y: -172}
+      - {x: -302, y: -154}
+      - {x: -314, y: -144}
+    - - {x: -195, y: -133}
+      - {x: -214, y: -144}
+      - {x: -230, y: -159}
+      - {x: -230, y: -173}
+      - {x: -212, y: -188}
+      - {x: -186, y: -188}
+      - {x: -181, y: -179}
+      - {x: -181, y: -142}
+      - {x: -185, y: -133}
+    - - {x: -141, y: -133}
+      - {x: -156, y: -144}
+      - {x: -169, y: -160}
+      - {x: -169, y: -176}
+      - {x: -157, y: -188}
+      - {x: -138, y: -188}
+      - {x: -124, y: -178}
+      - {x: -124, y: -141}
+      - {x: -126, y: -133}
+    - - {x: -74, y: -133}
+      - {x: -88, y: -133}
+      - {x: -100, y: -138}
+      - {x: -112, y: -153}
+      - {x: -112, y: -170}
+      - {x: -104, y: -188}
+      - {x: -86, y: -188}
+      - {x: -71, y: -173}
+      - {x: -71, y: -140}
+    - - {x: -14, y: -139}
+      - {x: -35, y: -139}
+      - {x: -42, y: -152}
+      - {x: -42, y: -179}
+      - {x: -41, y: -183}
+      - {x: -31, y: -188}
+      - {x: -20, y: -188}
+      - {x: -15, y: -187}
+      - {x: -3, y: -180}
+      - {x: -1, y: -170}
+      - {x: -1, y: -153}
+    - - {x: 16, y: -139}
+      - {x: 14, y: -141}
+      - {x: 14, y: -186}
+      - {x: 15, y: -188}
+      - {x: 43, y: -188}
+      - {x: 53, y: -170}
+      - {x: 53, y: -147}
+      - {x: 40, y: -139}
+    - - {x: 72, y: -138}
+      - {x: 71, y: -139}
+      - {x: 71, y: -171}
+      - {x: 77, y: -188}
+      - {x: 93, y: -188}
+      - {x: 105, y: -169}
+      - {x: 105, y: -154}
+      - {x: 95, y: -138}
+    - - {x: -295, y: -174}
+      - {x: -279, y: -187}
+      - {x: -255, y: -187}
+      - {x: -243, y: -178}
+      - {x: -243, y: -139}
+      - {x: -246, y: -130}
+      - {x: -264, y: -130}
+      - {x: -281, y: -139}
+      - {x: -295, y: -166}
+    - - {x: -56, y: -182}
+      - {x: -49, y: -179}
+      - {x: -48, y: -174}
+      - {x: -51, y: -172}
+      - {x: -58, y: -179}
+    - - {x: -373, y: -63}
+      - {x: -376, y: -64}
+      - {x: -376, y: -119}
+      - {x: -375, y: -123}
+      - {x: -297, y: -123}
+      - {x: -297, y: -73}
+      - {x: -323, y: -63}
+    - - {x: -287, y: -63}
+      - {x: -292, y: -67}
+      - {x: -292, y: -85}
+      - {x: -287, y: -123}
+      - {x: -233, y: -123}
+      - {x: -229, y: -122}
+      - {x: -211, y: -110}
+      - {x: -211, y: -86}
+      - {x: -223, y: -63}
+    - - {x: -446, y: -73}
+      - {x: -446, y: -97}
+      - {x: -440, y: -120}
+      - {x: -403, y: -120}
+      - {x: -391, y: -114}
+      - {x: -390, y: -112}
+      - {x: -390, y: -81}
+      - {x: -401, y: -73}
+    - - {x: 186, y: -70}
+      - {x: 184, y: -79}
+      - {x: 184, y: -110}
+      - {x: 191, y: -120}
+      - {x: 205, y: -120}
+      - {x: 219, y: -99}
+      - {x: 219, y: -88}
+      - {x: 206, y: -70}
+    - - {x: 228, y: -69}
+      - {x: 228, y: -100}
+      - {x: 237, y: -120}
+      - {x: 252, y: -120}
+      - {x: 264, y: -108}
+      - {x: 264, y: -89}
+      - {x: 252, y: -69}
+    - - {x: 299, y: -87}
+      - {x: 296, y: -73}
+      - {x: 292, y: -71}
+      - {x: 277, y: -71}
+      - {x: 268, y: -84}
+      - {x: 268, y: -106}
+      - {x: 274, y: -120}
+      - {x: 286, y: -120}
+      - {x: 302, y: -100}
+      - {x: 302, y: -90}
+    - - {x: -148, y: -63}
+      - {x: -199, y: -63}
+      - {x: -202, y: -64}
+      - {x: -202, y: -102}
+      - {x: -199, y: -119}
+      - {x: -125, y: -119}
+      - {x: -122, y: -114}
+      - {x: -122, y: -78}
+    - - {x: -117, y: -63}
+      - {x: -117, y: -119}
+      - {x: -72, y: -119}
+      - {x: -46, y: -113}
+      - {x: -46, y: -75}
+      - {x: -52, y: -63}
+    - - {x: -42, y: -69}
+      - {x: -42, y: -119}
+      - {x: 3, y: -119}
+      - {x: 8, y: -113}
+      - {x: 8, y: -84}
+      - {x: 2, y: -69}
+    - - {x: 59, y: -76}
+      - {x: 28, y: -76}
+      - {x: 22, y: -77}
+      - {x: 18, y: -97}
+      - {x: 18, y: -119}
+      - {x: 62, y: -119}
+      - {x: 64, y: -110}
+      - {x: 64, y: -78}
+    - - {x: 70, y: -75}
+      - {x: 70, y: -91}
+      - {x: 81, y: -118}
+      - {x: 86, y: -119}
+      - {x: 117, y: -119}
+      - {x: 123, y: -113}
+      - {x: 123, y: -85}
+      - {x: 116, y: -75}
+    - - {x: 130, y: -75}
+      - {x: 129, y: -79}
+      - {x: 130, y: -82}
+      - {x: 129, y: -94}
+      - {x: 129, y: -100}
+      - {x: 131, y: -119}
+      - {x: 168, y: -119}
+      - {x: 175, y: -110}
+      - {x: 175, y: -89}
+      - {x: 166, y: -75}
+    - - {x: -235, y: -101}
+      - {x: -237, y: -105}
+      - {x: -243, y: -109}
+    - - {x: -320, y: -104}
+      - {x: -320, y: -100}
+      - {x: -321, y: -99}
+      - {x: -319, y: -100}
+      - {x: -320, y: -102}
+      - {x: -322, y: -105}
+      - {x: -321, y: -105}
+    - - {x: -417, y: -103}
+      - {x: -415, y: -103}
+      - {x: -414, y: -102}
+      - {x: -415, y: -104}
+      - {x: -419, y: -105}
+      - {x: -418, y: -105}
+    - - {x: 22, y: -86}
+      - {x: 25, y: -85}
+      - {x: 25, y: -82}
+      - {x: 22, y: -81}
+      - {x: 20, y: -83}
+    - - {x: -90, y: -77}
+      - {x: -86, y: -81}
+    - - {x: 15, y: -79}
+      - {x: 18, y: -78}
+      - {x: 18, y: -75}
+      - {x: 15, y: -74}
+      - {x: 13, y: -76}
+    - - {x: 26, y: -75}
+      - {x: 29, y: -74}
+      - {x: 29, y: -71}
+      - {x: 26, y: -70}
+      - {x: 24, y: -72}
+    - - {x: -438, y: -11}
+      - {x: -441, y: -14}
+      - {x: -441, y: -52}
+      - {x: -388, y: -52}
+      - {x: -388, y: -23}
+      - {x: -403, y: -11}
+    - - {x: -340, y: -11}
+      - {x: -379, y: -11}
+      - {x: -379, y: -52}
+      - {x: -345, y: -52}
+      - {x: -330, y: -48}
+      - {x: -329, y: -44}
+      - {x: -329, y: -35}
+    - - {x: -282, y: -13}
+      - {x: -314, y: -13}
+      - {x: -319, y: -14}
+      - {x: -319, y: -51}
+      - {x: -318, y: -52}
+      - {x: -296, y: -52}
+      - {x: -270, y: -48}
+      - {x: -270, y: -26}
+    - - {x: -223, y: -11}
+      - {x: -262, y: -11}
+      - {x: -262, y: -40}
+      - {x: -261, y: -52}
+      - {x: -205, y: -52}
+      - {x: -202, y: -47}
+      - {x: -202, y: -22}
+      - {x: -208, y: -14}
+    - - {x: -158, y: -11}
+      - {x: -188, y: -11}
+      - {x: -192, y: -12}
+      - {x: -192, y: -35}
+      - {x: -190, y: -50}
+      - {x: -188, y: -52}
+      - {x: -156, y: -52}
+      - {x: -139, y: -49}
+      - {x: -139, y: -36}
+      - {x: -148, y: -18}
+    - - {x: -93, y: -11}
+      - {x: -126, y: -11}
+      - {x: -126, y: -52}
+      - {x: -85, y: -52}
+      - {x: -76, y: -50}
+      - {x: -76, y: -33}
+      - {x: -78, y: -18}
+    - - {x: -22, y: -21}
+      - {x: -33, y: -13}
+      - {x: -59, y: -13}
+      - {x: -65, y: -34}
+      - {x: -65, y: -52}
+      - {x: -34, y: -52}
+      - {x: -17, y: -48}
+      - {x: -16, y: -42}
+      - {x: -16, y: -36}
+    - - {x: -327, y: 62}
+      - {x: -331, y: 60}
+      - {x: -331, y: 28}
+      - {x: -326, y: 2}
+      - {x: -268, y: 2}
+      - {x: -252, y: 19}
+      - {x: -252, y: 47}
+      - {x: -278, y: 62}
+    - - {x: -428, y: 28}
+      - {x: -425, y: 27}
+      - {x: -436, y: 14}
+      - {x: -436, y: 6}
+      - {x: -387, y: 6}
+      - {x: -387, y: 27}
+      - {x: -391, y: 41}
+      - {x: -428, y: 41}
+      - {x: -435, y: 38}
+    - - {x: -337, y: 44}
+      - {x: -364, y: 44}
+      - {x: -379, y: 28}
+      - {x: -379, y: 7}
+      - {x: -378, y: 6}
+      - {x: -360, y: 6}
+      - {x: -349, y: 7}
+      - {x: -340, y: 11}
+      - {x: -337, y: 22}
+    - - {x: -231, y: 62}
+      - {x: -241, y: 57}
+      - {x: -241, y: 6}
+      - {x: -163, y: 6}
+      - {x: -161, y: 14}
+      - {x: -161, y: 42}
+      - {x: -187, y: 62}
+    - - {x: -153, y: 62}
+      - {x: -153, y: 26}
+      - {x: -149, y: 6}
+      - {x: -98, y: 6}
+      - {x: -82, y: 35}
+      - {x: -82, y: 50}
+      - {x: -103, y: 62}
+    - - {x: -65, y: 52}
+      - {x: -73, y: 52}
+      - {x: -73, y: 6}
+      - {x: -23, y: 6}
+      - {x: -23, y: 40}
+      - {x: -35, y: 48}
+    - - {x: 9, y: 50}
+      - {x: -14, y: 50}
+      - {x: -14, y: 6}
+      - {x: 32, y: 6}
+      - {x: 34, y: 15}
+      - {x: 34, y: 38}
+      - {x: 32, y: 42}
+    - - {x: 51, y: 16}
+      - {x: 51, y: 6}
+      - {x: 96, y: 6}
+      - {x: 97, y: 10}
+      - {x: 97, y: 40}
+      - {x: 68, y: 40}
+      - {x: 62, y: 39}
+    - - {x: 118, y: 44}
+      - {x: 111, y: 34}
+      - {x: 106, y: 25}
+      - {x: 106, y: 6}
+      - {x: 142, y: 6}
+      - {x: 144, y: 13}
+      - {x: 144, y: 44}
+    - - {x: 164, y: 44}
+      - {x: 157, y: 34}
+      - {x: 152, y: 25}
+      - {x: 152, y: 6}
+      - {x: 188, y: 6}
+      - {x: 190, y: 13}
+      - {x: 190, y: 44}
+    - - {x: 203, y: 45}
+      - {x: 196, y: 37}
+      - {x: 196, y: 9}
+      - {x: 198, y: 6}
+      - {x: 231, y: 6}
+      - {x: 235, y: 17}
+      - {x: 235, y: 35}
+      - {x: 233, y: 45}
+    - - {x: 255, y: 48}
+      - {x: 243, y: 40}
+      - {x: 243, y: 6}
+      - {x: 275, y: 6}
+      - {x: 282, y: 15}
+      - {x: 282, y: 41}
+      - {x: 280, y: 48}
+    - - {x: 319, y: 51}
+      - {x: 297, y: 51}
+      - {x: 288, y: 34}
+      - {x: 288, y: 7}
+      - {x: 292, y: 6}
+      - {x: 314, y: 6}
+      - {x: 327, y: 7}
+      - {x: 328, y: 10}
+      - {x: 328, y: 40}
+    - - {x: -275, y: 21}
+      - {x: -275, y: 25}
+      - {x: -276, y: 26}
+      - {x: -274, y: 25}
+      - {x: -275, y: 23}
+      - {x: -277, y: 20}
+      - {x: -276, y: 20}
+    - - {x: 55, y: 39}
+      - {x: 58, y: 40}
+      - {x: 58, y: 43}
+      - {x: 55, y: 44}
+      - {x: 53, y: 42}
+    - - {x: -63, y: 55}
+      - {x: -63, y: 50}
+      - {x: -54, y: 40}
+      - {x: -49, y: 40}
+      - {x: -48, y: 41}
+      - {x: -48, y: 44}
+      - {x: -60, y: 56}
+      - {x: -62, y: 56}
+    - - {x: -2, y: 54}
+      - {x: -3, y: 51}
+      - {x: 6, y: 40}
+      - {x: 9, y: 41}
+      - {x: 9, y: 45}
+      - {x: 1, y: 54}
+    - - {x: 64, y: 44}
+      - {x: 67, y: 45}
+      - {x: 67, y: 48}
+      - {x: 64, y: 49}
+      - {x: 62, y: 47}
+    - - {x: 48, y: 46}
+      - {x: 51, y: 47}
+      - {x: 51, y: 50}
+      - {x: 48, y: 51}
+      - {x: 46, y: 49}
+    - - {x: 59, y: 50}
+      - {x: 62, y: 51}
+      - {x: 62, y: 54}
+      - {x: 59, y: 55}
+      - {x: 57, y: 53}
+    - - {x: -392, y: 90}
+      - {x: -392, y: 110}
+      - {x: -405, y: 110}
+      - {x: -428, y: 100}
+      - {x: -431, y: 89}
+      - {x: -431, y: 70}
+      - {x: -404, y: 70}
+      - {x: -398, y: 71}
+      - {x: -396, y: 73}
+      - {x: -394, y: 80}
+    - - {x: -386, y: 133}
+      - {x: -386, y: 70}
+      - {x: -316, y: 70}
+      - {x: -307, y: 82}
+      - {x: -307, y: 133}
+    - - {x: -215, y: 82}
+      - {x: -208, y: 89}
+      - {x: -208, y: 112}
+      - {x: -245, y: 133}
+      - {x: -294, y: 133}
+      - {x: -300, y: 132}
+      - {x: -300, y: 103}
+      - {x: -286, y: 70}
+      - {x: -250, y: 70}
+      - {x: -246, y: 86}
+      - {x: -247, y: 84}
+      - {x: -242, y: 76}
+    - - {x: -144, y: 115}
+      - {x: -139, y: 97}
+      - {x: -138, y: 70}
+      - {x: -122, y: 70}
+      - {x: -109, y: 76}
+      - {x: -96, y: 92}
+      - {x: -96, y: 124}
+      - {x: -100, y: 133}
+      - {x: -200, y: 133}
+      - {x: -200, y: 98}
+      - {x: -187, y: 70}
+      - {x: -148, y: 70}
+      - {x: -140, y: 100}
+      - {x: -144, y: 108}
+      - {x: -152, y: 112}
+    - - {x: -73, y: 127}
+      - {x: -90, y: 127}
+      - {x: -90, y: 100}
+      - {x: -89, y: 93}
+      - {x: -82, y: 70}
+      - {x: -45, y: 70}
+      - {x: -42, y: 72}
+      - {x: -38, y: 92}
+      - {x: -38, y: 112}
+    - - {x: 54, y: 125}
+      - {x: 31, y: 125}
+      - {x: 31, y: 117}
+      - {x: 43, y: 99}
+      - {x: 35, y: 80}
+      - {x: 40, y: 70}
+      - {x: 81, y: 70}
+      - {x: 81, y: 109}
+      - {x: 73, y: 112}
+    - - {x: 104, y: 110}
+      - {x: 101, y: 98}
+      - {x: 101, y: 72}
+      - {x: 102, y: 70}
+      - {x: 139, y: 70}
+      - {x: 142, y: 74}
+      - {x: 142, y: 110}
+    - - {x: 238, y: 110}
+      - {x: 235, y: 98}
+      - {x: 235, y: 72}
+      - {x: 236, y: 70}
+      - {x: 273, y: 70}
+      - {x: 276, y: 74}
+      - {x: 276, y: 110}
+    - - {x: 391, y: 113}
+      - {x: 383, y: 91}
+      - {x: 383, y: 70}
+      - {x: 418, y: 70}
+      - {x: 418, y: 113}
+    - - {x: -14, y: 117}
+      - {x: -14, y: 81}
+      - {x: 13, y: 81}
+      - {x: 22, y: 92}
+      - {x: 22, y: 113}
+      - {x: 18, y: 117}
+    - - {x: 191, y: 115}
+      - {x: 189, y: 113}
+      - {x: 189, y: 109}
+      - {x: 193, y: 104}
+      - {x: 189, y: 89}
+      - {x: 189, y: 83}
+      - {x: 208, y: 83}
+      - {x: 221, y: 84}
+      - {x: 227, y: 89}
+      - {x: 227, y: 107}
+      - {x: 220, y: 115}
+    - - {x: 368, y: 107}
+      - {x: 334, y: 107}
+      - {x: 333, y: 106}
+      - {x: 333, y: 94}
+      - {x: 334, y: 91}
+      - {x: 363, y: 91}
+      - {x: 372, y: 93}
+      - {x: 375, y: 98}
+      - {x: 375, y: 103}
+    - - {x: -331, y: 96}
+      - {x: -330, y: 94}
+    - - {x: 98, y: 110}
+      - {x: 101, y: 111}
+      - {x: 101, y: 114}
+      - {x: 98, y: 115}
+      - {x: 96, y: 113}
+    - - {x: 107, y: 115}
+      - {x: 110, y: 116}
+      - {x: 110, y: 119}
+      - {x: 107, y: 120}
+      - {x: 105, y: 118}
+    - - {x: 91, y: 117}
+      - {x: 94, y: 118}
+      - {x: 94, y: 121}
+      - {x: 91, y: 122}
+      - {x: 89, y: 120}
+    - - {x: 102, y: 121}
+      - {x: 105, y: 122}
+      - {x: 105, y: 125}
+      - {x: 102, y: 126}
+      - {x: 100, y: 124}
+    - - {x: -394, y: 183}
+      - {x: -427, y: 183}
+      - {x: -430, y: 166}
+      - {x: -430, y: 151}
+      - {x: -425, y: 150}
+      - {x: -422, y: 150}
+      - {x: -417, y: 155}
+      - {x: -419, y: 152}
+      - {x: -425, y: 145}
+      - {x: -425, y: 137}
+      - {x: -385, y: 137}
+      - {x: -385, y: 174}
+      - {x: -386, y: 180}
+    - - {x: -364, y: 183}
+      - {x: -377, y: 169}
+      - {x: -377, y: 146}
+      - {x: -376, y: 137}
+      - {x: -324, y: 137}
+      - {x: -324, y: 175}
+      - {x: -335, y: 183}
+    - - {x: -304, y: 199}
+      - {x: -313, y: 175}
+      - {x: -314, y: 172}
+      - {x: -314, y: 169}
+      - {x: -301, y: 155}
+      - {x: -295, y: 154}
+      - {x: -292, y: 164}
+      - {x: -295, y: 149}
+      - {x: -291, y: 137}
+      - {x: -230, y: 137}
+      - {x: -220, y: 158}
+      - {x: -220, y: 189}
+      - {x: -224, y: 199}
+    - - {x: -115, y: 199}
+      - {x: -185, y: 199}
+      - {x: -206, y: 190}
+      - {x: -206, y: 166}
+      - {x: -193, y: 153}
+      - {x: -185, y: 156}
+      - {x: -185, y: 164}
+      - {x: -177, y: 175}
+      - {x: -187, y: 149}
+      - {x: -184, y: 141}
+      - {x: -180, y: 137}
+      - {x: -127, y: 137}
+      - {x: -112, y: 144}
+      - {x: -112, y: 195}
+    - - {x: -40, y: 197}
+      - {x: -54, y: 199}
+      - {x: -87, y: 199}
+      - {x: -85, y: 193}
+      - {x: -96, y: 178}
+      - {x: -102, y: 166}
+      - {x: -102, y: 138}
+      - {x: -99, y: 137}
+      - {x: -46, y: 137}
+      - {x: -31, y: 154}
+      - {x: -31, y: 175}
+    - - {x: -3, y: 177}
+      - {x: -22, y: 166}
+      - {x: -22, y: 137}
+      - {x: 25, y: 137}
+      - {x: 25, y: 167}
+      - {x: 22, y: 177}
+    - - {x: 77, y: 177}
+      - {x: 58, y: 177}
+      - {x: 52, y: 175}
+      - {x: 36, y: 164}
+      - {x: 36, y: 137}
+      - {x: 82, y: 137}
+      - {x: 83, y: 140}
+      - {x: 83, y: 155}
+    - - {x: 116, y: 177}
+      - {x: 114, y: 176}
+      - {x: 95, y: 166}
+      - {x: 93, y: 158}
+      - {x: 93, y: 137}
+      - {x: 140, y: 137}
+      - {x: 140, y: 155}
+      - {x: 134, y: 177}
+    - - {x: 187, y: 177}
+      - {x: 178, y: 177}
+      - {x: 170, y: 176}
+      - {x: 151, y: 166}
+      - {x: 149, y: 163}
+      - {x: 149, y: 137}
+      - {x: 184, y: 137}
+      - {x: 185, y: 139}
+      - {x: 190, y: 158}
+      - {x: 190, y: 172}
+    - - {x: 249, y: 177}
+      - {x: 240, y: 177}
+      - {x: 232, y: 176}
+      - {x: 213, y: 166}
+      - {x: 211, y: 163}
+      - {x: 211, y: 137}
+      - {x: 246, y: 137}
+      - {x: 247, y: 139}
+      - {x: 252, y: 158}
+      - {x: 252, y: 172}
+    - - {x: 279, y: 180}
+      - {x: 271, y: 158}
+      - {x: 271, y: 137}
+      - {x: 306, y: 137}
+      - {x: 306, y: 180}
+    - - {x: 191, y: 140}
+      - {x: 195, y: 138}
+      - {x: 198, y: 140}
+      - {x: 197, y: 143}
+      - {x: 192, y: 145}
+      - {x: 190, y: 143}
+    - - {x: -250, y: 167}
+      - {x: -250, y: 170}
+      - {x: -257, y: 178}
+      - {x: -265, y: 182}
+      - {x: -268, y: 183}
+      - {x: -270, y: 183}
+      - {x: -274, y: 185}
+      - {x: -276, y: 184}
+      - {x: -266, y: 184}
+      - {x: -265, y: 183}
+      - {x: -251, y: 174}
+      - {x: -250, y: 173}
+      - {x: -250, y: 168}
+      - {x: -252, y: 163}
+      - {x: -251, y: 163}
+    - - {x: -394, y: 259}
+      - {x: -414, y: 259}
+      - {x: -425, y: 252}
+      - {x: -425, y: 216}
+      - {x: -398, y: 216}
+      - {x: -388, y: 217}
+      - {x: -388, y: 234}
+      - {x: -392, y: 258}
+    - - {x: -382, y: 263}
+      - {x: -383, y: 261}
+      - {x: -383, y: 216}
+      - {x: -327, y: 216}
+      - {x: -311, y: 238}
+      - {x: -311, y: 253}
+      - {x: -334, y: 263}
+    - - {x: -241, y: 263}
+      - {x: -299, y: 263}
+      - {x: -299, y: 216}
+      - {x: -239, y: 216}
+      - {x: -226, y: 237}
+      - {x: -226, y: 254}
+      - {x: -236, y: 261}
+    - - {x: -212, y: 263}
+      - {x: -212, y: 250}
+      - {x: -204, y: 219}
+      - {x: -203, y: 216}
+      - {x: -157, y: 216}
+      - {x: -140, y: 227}
+      - {x: -140, y: 257}
+      - {x: -148, y: 263}
+    - - {x: -133, y: 263}
+      - {x: -133, y: 261}
+      - {x: -132, y: 258}
+      - {x: -126, y: 228}
+      - {x: -123, y: 216}
+      - {x: -85, y: 216}
+      - {x: -85, y: 263}
+    - - {x: -76, y: 263}
+      - {x: -76, y: 216}
+      - {x: -32, y: 216}
+      - {x: -28, y: 230}
+      - {x: -28, y: 260}
+      - {x: -35, y: 263}
+    - - {x: -19, y: 262}
+      - {x: -21, y: 260}
+      - {x: -20, y: 257}
+      - {x: -20, y: 217}
+      - {x: -17, y: 216}
+      - {x: 23, y: 216}
+      - {x: 26, y: 223}
+      - {x: 26, y: 256}
+      - {x: 22, y: 262}
+    - - {x: 45, y: 257}
+      - {x: 45, y: 217}
+      - {x: 46, y: 216}
+      - {x: 79, y: 216}
+      - {x: 84, y: 218}
+      - {x: 84, y: 257}
+    - - {x: 118, y: 258}
+      - {x: 105, y: 253}
+      - {x: 100, y: 240}
+      - {x: 100, y: 216}
+      - {x: 133, y: 216}
+      - {x: 136, y: 218}
+      - {x: 136, y: 257}
+      - {x: 134, y: 258}
+    - - {x: 158, y: 260}
+      - {x: 151, y: 254}
+      - {x: 151, y: 216}
+      - {x: 184, y: 216}
+      - {x: 192, y: 226}
+      - {x: 192, y: 254}
+      - {x: 186, y: 260}
+    - - {x: 242, y: 254}
+      - {x: 237, y: 261}
+      - {x: 221, y: 261}
+      - {x: 217, y: 260}
+      - {x: 207, y: 248}
+      - {x: 207, y: 216}
+      - {x: 244, y: 216}
+      - {x: 246, y: 217}
+      - {x: 247, y: 227}
+      - {x: 247, y: 242}
+    - - {x: 35, y: 258}
+      - {x: 38, y: 257}
+      - {x: 41, y: 259}
+      - {x: 40, y: 262}
+      - {x: 36, y: 263}
+      - {x: 34, y: 261}
+    physicsShape: []
+    bones: []
+    spriteID: d988fbaae77a8474d9852ecdcc551dcf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
